@@ -1,0 +1,16 @@
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\Dio.Lanchonete.exe
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\Dio.Lanchonete.deps.json
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\Dio.Lanchonete.runtimeconfig.json
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\Dio.Lanchonete.runtimeconfig.dev.json
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\Dio.Lanchonete.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\ref\Dio.Lanchonete.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\bin\Debug\net5.0\Dio.Lanchonete.pdb
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.csproj.AssemblyReference.cache
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.AssemblyInfoInputs.cache
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.AssemblyInfo.cs
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\ref\Dio.Lanchonete.dll
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.pdb
+C:\Users\Juan Farias\projetos\C#\DIO\Dio.Lanchonete\obj\Debug\net5.0\Dio.Lanchonete.genruntimeconfig.cache
